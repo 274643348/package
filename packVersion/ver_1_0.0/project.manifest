@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "packageUrl": "http://192.168.0.1",
+  "remoteManifestUrl": "http://192.168.0.1/project.manifest",
+  "remoteVersionUrl": "http://192.168.0.1/version.manifest",
+  "assets": {
+    "src/jsb_polyfill.js": {
+      "size": 1032310,
+      "md5": "5026bed056a2b6eec906a05323707020"
+    },
+    "src/project.dev.js": {
+      "size": 1739,
+      "md5": "4389b874aac1511dbf9e46c76e32d694"
+    },
+    "src/settings.js": {
+      "size": 894,
+      "md5": "cf9730ec31e62d406837db0c7b1fa1f2"
+    },
+    "res/import/05/05dd1dc0e.json": {
+      "size": 4128,
+      "md5": "1c8965de85fd751a79e11c52b40cad6f"
+    },
+    "res/raw-assets/Texture/HelloWorld.png": {
+      "size": 37864,
+      "md5": "a69a0b857f7462f4dd0d00bb5231a721"
+    },
+    "res/raw-assets/Texture/singleColor.png": {
+      "size": 17197,
+      "md5": "5825642f69b6fed137482bf89f8f1fd5"
+    }
+  },
+  "searchPaths": []
+}

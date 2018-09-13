@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "一份简单的扩展包",
+  "author": "LJY",
+  "main": "main.js",
+  "main-menu": {
+    "Packages/cc": {
+      "message": "hello-world:cc"
+    },
+    "Packages/mm": {
+      "message": "hello-world:mm"
+    }
+  }
+}
