@@ -5,11 +5,22 @@
   "author": "LJY",
   "main": "main.js",
   "main-menu": {
-    "Packages/cc": {
+    "扩展包/cc": {
       "message": "hello-world:cc"
     },
-    "Packages/mm": {
+    "扩展包/mm": {
       "message": "hello-world:mm"
+    },
+    "扩展包/便利所有文件(包括文件夹)": {
+      "message": "hello-world:queryAssets"
+    },
+    "扩展包/便利所有文件(过滤文件夹)": {
+      "message": "hello-world:queryAssetsFiel"
+    },
+    "扩展包/中文检查": {
+      "message": "hello-world:checkChina"
     }
+
+    
   }
 }
